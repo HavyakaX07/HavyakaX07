@@ -1,0 +1,4 @@
+https://account.ineuron.ai/signin?domain=learn.ineuron.ai&redirectUrl=/course/Full-Stack-Data-Science-Bootcamp/6248124a006e09832559f938
+https://www.kaggle.com/code/aimack/how-to-handle-skewed-distribution/notebook
+stitchdata.com/resources/what-is-data-pipeline
+https://onboarding.hrapp-in.siemens.cloud/ApplicationForm
